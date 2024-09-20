@@ -7,13 +7,17 @@
     border-radius: 4px;
     margin: 0 auto;
     width: 600px;
-    height: 300px;
+    height: 450px;
 }
 .inputField{
     padding: 6px 30px;
     text-align: center;
     border-radius: 4px;
     
+}
+.valreg{
+    color: red;
+    font-size: 10px;
 }
 #sub-btn:enabled{
     padding: 8px 13px;
